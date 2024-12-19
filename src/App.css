@@ -1,0 +1,33 @@
+  .gammmmme {
+text-align: center;
+  }
+   
+  .container {
+display:flex;
+flex-direction: row;
+justify-content: center;
+  
+  }
+  .player {
+    margin: 5px;
+    height: 120px;
+    width: 120px;
+    flex-direction: column;
+    background-color:rgb(255, 210, 160);
+  }
+  .btn {
+    width:100px;
+    border-radius: 8px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  .btn:hover {
+    background-color:#8174A0;
+  }
+  * {
+    background-color: #EFB6C8;
+    box-sizing: border-box;
+    border: black 5px;
+    margin: 20px;
+  }
+  
